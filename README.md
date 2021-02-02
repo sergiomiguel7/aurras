@@ -2,7 +2,7 @@
 ## Projeto Final da UC de Sistemas Operativos
 Universidade do Minho
 
-* Nota final: - em 20 valores
+* Nota final: 16 em 20 valores
 
 ### Descrição do Projeto
 
